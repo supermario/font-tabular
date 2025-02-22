@@ -9,6 +9,8 @@ Goals:
 
 Currently testing specifically on General Sans Variable.
 
+NB: originally included `.` and `,`, but my use-case only ever had them in already uniform positions (accountancy), so I dropped them to claw back some overall width/compactness.
+
 
 ## Approach 1: A new font with different fixed widths for relevant glyphs
 
